@@ -10,4 +10,5 @@ Task Performed
 3. Verification: Used the 'curl' command to attempt a connection to the blocked port, confirming that the firewall successfully dropped the request.
 
 Files in this Repository
-/home/kali/firewall_config.txt
+firewall configuration file: https://docs.google.com/document/d/11zABGWTu0MXjFmUCzgqr8MqhIjFj-9_ld-txcEv-JZc/edit?usp=drivesdk
+test results file: https://docs.google.com/document/d/128yynH7rRP6xogerlsuwQUQpCqto-ttbykpTGqhsU1s/edit?usp=drivesdk
